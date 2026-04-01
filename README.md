@@ -9,6 +9,6 @@
 ## 📊 GitHub Stats:
 <div align="left">
   <a href="https://github.com/mark0613">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mark0613&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark0613&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180em" src="./profile/stats.svg"/>
+  <img height="180em" src="./profile/top-langs.svg"/>
 </div>
